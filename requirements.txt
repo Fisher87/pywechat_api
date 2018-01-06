@@ -1,0 +1,5 @@
+git+ssh://git@gitlab.benditoutiao.com/bdtt/urlagency.git
+git+ssh://git@gitlab.benditoutiao.com/bdtt/pyrabbitmq.git
+git+ssh://git@gitlab.benditoutiao.com/bdtt/pyredis.git
+git+ssh://git@gitlab.benditoutiao.com/bdtt/mylogging.git
+
